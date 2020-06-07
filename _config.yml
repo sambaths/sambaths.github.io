@@ -13,8 +13,8 @@ picture: https://avatars1.githubusercontent.com/u/10422662?s=460&v=4
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: True
-resume-external: False
-resume-url: assets/Sambaths_V3.pdf
+resume-external: True
+resume-url: https://drive.google.com/file/d/1Zb6v5w91R-hjAzhkiHVbmtBDyon6-WaE/view
 
 url: https://sambaths.github.io/
 # your url: https://USERNAME.github.io
