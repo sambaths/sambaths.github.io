@@ -1,9 +1,9 @@
 # main text of home
 name: Sambath S
-bio: [My Blog](https://sambaths.github.io/blog/)
+bio: One Step at a time
 
 # twitter summary info
-description: [My Blog](https://sambaths.github.io/blog/)
+description: One Step at a time
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,7 +55,7 @@ email: sambaths1@outlook.com
 authors:
   sambaths:
     name: Sambath S
-    bio: [My Blog](https://sambaths.github.io/blog/)
+    bio: One step at a time
     external-image: True
     picture: https://avatars1.githubusercontent.com/u/10422662?s=460&v=4
 #     twitter: johndoe
