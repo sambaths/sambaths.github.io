@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: page
-permalink: /blog/index.html
+permalink: /blog/blog.html
 redirect_to: https://www.google.com
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
