@@ -3,7 +3,7 @@ name: Sambath S
 bio: [My Blog](https://sambaths.github.io/blog/)
 
 # twitter summary info
-description: My personal Website
+description: [My Blog](https://sambaths.github.io/blog/)
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,7 +55,7 @@ email: sambaths1@outlook.com
 authors:
   sambaths:
     name: Sambath S
-    bio: Someone who is trying to be better
+    bio: [My Blog](https://sambaths.github.io/blog/)
     external-image: True
     picture: https://avatars1.githubusercontent.com/u/10422662?s=460&v=4
 #     twitter: johndoe
