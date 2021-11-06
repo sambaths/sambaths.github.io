@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: redirected
+layout: page
 permalink: /blog/index.html
 redirect_to: https://www.google.com
 ---
